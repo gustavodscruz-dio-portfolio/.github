@@ -1,8 +1,8 @@
-##👋 Olá, eu sou o Gustavo Dias da Silva Cruz!
+## 👋 Olá, eu sou o Gustavo Dias da Silva Cruz!
 
 Bem-vindo(a) ao meu portfólio de projetos na Digital Innovation One (DIO) 🚀
 
-###🧑‍💻 Sobre Mim
+##  🧑‍💻 Sobre Mim
 
 Sou um entusiasta da tecnologia e apaixonado por desenvolvimento de software, sempre em busca de novos desafios e aprendizados. Atualmente, estou focado em aprimorar minhas habilidades em programação, desenvolvimento web e mobile, e explorar as infinitas possibilidades que a tecnologia oferece.
 
